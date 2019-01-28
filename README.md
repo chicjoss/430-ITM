@@ -1,8 +1,8 @@
 # 430-ITM
 # Jocelyne 
-! [Me] (Desktop/joss.jpg "Jocelyne")
+! [Me] (Desktop/joss.jpg "joss)
 
-![Plane View] (Desktop/vacay.jpg "Plane Views")
+![Plane View] (Desktop/vacay.jpg "vacay")
 
 # Where are you from?
 
@@ -19,4 +19,4 @@ I played the cello for about 6 years, it was one my favorite things to do.
 
 # Git tutorial
 
-![Git Tutorial] (Desktop/badges.jpg "Result")
+![Git Tutorial] (Desktop/badges.jpg "badges")
