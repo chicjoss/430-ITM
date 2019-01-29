@@ -1,7 +1,7 @@
 # Jocelyne 
-![Me] (image/joss.jpg "Jocelyne")
+![Me](image/joss.jpg "Jocelyne")
 
-![Plane View] (image/vacay.jpg "Plane Views")
+![Plane View](image/vacay.jpg "Plane Views")
 
 # Where are you from?
 
@@ -18,4 +18,4 @@ I played the cello for about 6 years, it was one my favorite things to do.
 
 # Git tutorial
 
-![Git Tutorial] (image/badges.jpg "Result")
+![Git Tutorial](image/badges.jpg "Result")
